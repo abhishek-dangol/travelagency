@@ -4,4 +4,4 @@
 
 https://dan-travel-agency.netlify.app/
 
-![](tours-min.gif)
+![]tours-min.gif
